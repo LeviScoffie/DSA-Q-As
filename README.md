@@ -1,0 +1,1 @@
+This is a Data Structures and Algorithm course that will help in solving various coding interviews.
